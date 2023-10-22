@@ -6,7 +6,7 @@ The documentation source of [vue-element-admin](https://github.com/PanJiaChen/vu
 ## Development
 
 ```bash
-# clone the project
+# clone the project1
 git clone git@github.com:PanJiaChen/vue-element-admin-site.git
 
 # install dependency
